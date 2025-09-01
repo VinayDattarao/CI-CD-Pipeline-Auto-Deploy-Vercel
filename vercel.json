@@ -1,0 +1,9 @@
+{
+  "name": "my-cicd",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/next"
+    }
+  ]
+}
